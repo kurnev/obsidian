@@ -1,0 +1,1 @@
+Important concept that we write data in some processing service one-by-one in the same order they came. An offset indicates which event has been processed. So if something fails we can continue from the same point

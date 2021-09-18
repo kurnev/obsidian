@@ -1,0 +1,1 @@
+Real time data processing (filtering, querying) in streams that outputs to another stream with minimal latency

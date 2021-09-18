@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "f1dd48806e072d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "857490a55083bd8d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Code Interview/Bloom filter.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2563ff36f4782a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "9665b16b7a0bb687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45738b32bbb2090",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b91a20403619b7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d76e457ea833414",
+    "type": "split",
+    "children": [
+      {
+        "id": "f678c346daa10f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7f9e70f25a7845",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Code Interview/Bloom filter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "857490a55083bd8d",
+  "lastOpenFiles": [
+    "Programming/Code Interview/Untitled.md",
+    "Programming/Code Interview/Binare search tree.md",
+    "Programming/Code Interview/Red-black tree.md",
+    "Programming/Code Interview/Binary search.md",
+    "Programming/Code Interview/B-tree.md",
+    "Programming/Code Interview/Big O.md",
+    "Programming/Code Interview/NP Complete.md",
+    "Programming/Code Interview/Greedy algorithms.md",
+    "Programming/Code Interview/Dijskstra algo.md",
+    "Programming/Code Interview/Code interview.md"
+  ]
+}
