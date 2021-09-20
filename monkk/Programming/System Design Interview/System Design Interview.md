@@ -60,4 +60,8 @@ Load balancing may use batching to keep some data and send in one request, it ha
 
 [[Load Balancer in distributed systems]]
 
+ Text formats:
  
+ xml, json, txt
+ 
+ binary: protocol buffers, avro, thrift

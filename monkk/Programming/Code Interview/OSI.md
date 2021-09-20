@@ -1,0 +1,1 @@
+The **Open Systems Interconnection model** (OSI) is a conceptual model that characterizes and standardizes the internal functions of a communication system by partitioning it into abstraction layers. The model groups communication functions into seven logical layers.

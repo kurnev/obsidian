@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Code Interview/Bloom filter.md",
+            "file": "Programming/System Design Interview/System Design Interview.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Code Interview/Bloom filter.md",
+                "file": "Programming/System Design Interview/System Design Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "857490a55083bd8d",
   "lastOpenFiles": [
+    "Programming/System Design Interview/System Design Interview.md",
+    "Programming/System Design Interview/Partitioner service.md",
+    "Programming/System Design Interview/Load Balancer in distributed systems.md",
+    "Programming/Code Interview/Questions on interview/Questions I was asked.md",
     "Programming/Code Interview/Untitled.md",
-    "Programming/Code Interview/Binare search tree.md",
-    "Programming/Code Interview/Red-black tree.md",
+    "Programming/Code Interview/Binary search tree.md",
     "Programming/Code Interview/Binary search.md",
-    "Programming/Code Interview/B-tree.md",
+    "Programming/Code Interview/Bellman-Ford algo.md",
     "Programming/Code Interview/Big O.md",
-    "Programming/Code Interview/NP Complete.md",
-    "Programming/Code Interview/Greedy algorithms.md",
-    "Programming/Code Interview/Dijskstra algo.md",
-    "Programming/Code Interview/Code interview.md"
+    "Programming/Code Interview/Greedy algorithms.md"
   ]
 }

@@ -16,4 +16,4 @@ but have O(n) for worst case.
 To avoid worst case you need good hash function to avoid collisions
 
 
-If load factor (taken slots / all slots) is > 1, then something goes bad and you need to resize the hash table (add mote slotes. ) Usually you doulbe the size of hash function 
+If load factor (taken slots / all slots) is > 1, then something goes bad and you need to resize the hash table (add more slotes) Usually you doulbe the size of hash function 

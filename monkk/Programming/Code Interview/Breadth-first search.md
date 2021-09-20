@@ -5,7 +5,7 @@ Runs on [[graphs]]. Answers two questions:
 
 First search closest nodes. 
 
-You need to check in the same order people were added to the search list to get shortest path. Don't check same node twice - check
+You need to check in the same order people were added to the search list to get shortest path. Don't check same node twice - store id in array and check against it.
 
 Start from one node and add all his nodes to the queue. Pop the queue and check the item, if found - exit, if not found add all his nodes to the list.
 

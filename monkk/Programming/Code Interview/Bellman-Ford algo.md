@@ -1,0 +1,1 @@
+Is used for weighed graphs with negative weights, where [[Dijskstra algo]]
