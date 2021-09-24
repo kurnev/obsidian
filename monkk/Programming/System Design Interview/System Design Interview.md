@@ -4,6 +4,9 @@ Functional requirements (top high level requirements). Example on tiktok:
 2. Favoriting, commenting
 
 G1. Ask questions to clarify the requirements:
+[[Questions on interview]]
+
+1. Ask questions to clarify the requirements:
 	1. users - who will use the system, how often
 	2. scale (read and write) - how many read/write per request/second
 	3. perf - write/read delay, is it real time. how fast 
@@ -28,7 +31,7 @@ We can also combine processing: store raw data for several days and then purge i
 
 **Mysql:**
 Mysql sharding is an option (horizontal scalability)
-**Performance**: Probably behind the clust proxy with Configuration service (ZooKeeper) also with shard proxy for each shard.
+**Performance**: Probably behind the cluster proxy with Configuration service (ZooKeeper) also with shard proxy for each shard.
 **Availablity**:  read replica for a master shards on differenet data center
 
 

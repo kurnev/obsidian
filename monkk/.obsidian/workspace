@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/System Design Interview/System Design Interview.md",
+            "file": "Инвестиции/арсагера.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/System Design Interview/System Design Interview.md",
+                "file": "Инвестиции/арсагера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "857490a55083bd8d",
   "lastOpenFiles": [
+    "Инвестиции/арсагера.md",
+    "Инвестиции/Инфляция.md",
+    "Инвестиции/Untitled.md",
+    "Инвестиции/Фондовый рынок.md",
+    "Инвестиции/Акции.md",
+    "Inductive proofs.md",
+    "Programming/System Design Interview/Questions on interview.md",
     "Programming/System Design Interview/System Design Interview.md",
-    "Programming/System Design Interview/Partitioner service.md",
-    "Programming/System Design Interview/Load Balancer in distributed systems.md",
-    "Programming/Code Interview/Questions on interview/Questions I was asked.md",
-    "Programming/Code Interview/Untitled.md",
-    "Programming/Code Interview/Binary search tree.md",
-    "Programming/Code Interview/Binary search.md",
-    "Programming/Code Interview/Bellman-Ford algo.md",
-    "Programming/Code Interview/Big O.md",
-    "Programming/Code Interview/Greedy algorithms.md"
+    "Programming/System Design Interview/Timeouts in distributed systems.md",
+    "Programming/System Design Interview/Data aggregation Paritioning.md"
   ]
 }
