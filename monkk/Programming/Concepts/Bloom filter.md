@@ -1,6 +1,5 @@
 Bloom filters offer a solution ( if you have to check one item against millions of them)
 
-
 Bloom filters are probabilistic data structures. They give you an answer that could be wrong but is probably сorrect. Instead of a hash, you can ask your bloom filter if you’ve  
 crawled this URL before. A hash table would give you an accurate answer. A bloom filter will give you an answer that’s probably correct:
 • False positives are possible. Google might say, “You’ve already crawled  

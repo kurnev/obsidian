@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Инвестиции/арсагера.md",
+            "file": "Programming/Code Interview/REACTO acronym.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инвестиции/арсагера.md",
+                "file": "Programming/Code Interview/REACTO acronym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "857490a55083bd8d",
   "lastOpenFiles": [
-    "Инвестиции/арсагера.md",
-    "Инвестиции/Инфляция.md",
-    "Инвестиции/Untitled.md",
-    "Инвестиции/Фондовый рынок.md",
-    "Инвестиции/Акции.md",
-    "Inductive proofs.md",
-    "Programming/System Design Interview/Questions on interview.md",
-    "Programming/System Design Interview/System Design Interview.md",
-    "Programming/System Design Interview/Timeouts in distributed systems.md",
-    "Programming/System Design Interview/Data aggregation Paritioning.md"
+    "Programming/Code Interview/REACTO acronym.md",
+    "Programming/Code Interview/What should I know.md",
+    "Programming/Code Interview/Questions on interview/Questions I was asked.md",
+    "Programming/Code Interview/Code interview.md",
+    "Programming/Code Interview/Must know questions for an interview.md",
+    "Programming/Code Interview/Red-black tree.md",
+    "Programming/Code Interview/NP Complete.md",
+    "Programming/Code Interview/inverted index.md",
+    "Programming/Code Interview/OSI.md",
+    "Programming/Code Interview/MapReduce.md"
   ]
 }
