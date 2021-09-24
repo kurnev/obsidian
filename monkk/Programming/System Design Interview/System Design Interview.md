@@ -1,4 +1,9 @@
-1. Ask questions to clarify the requirements:
+Functional requirements (top high level requirements). Example on tiktok:
+
+1. Upload videos
+2. Favoriting, commenting
+
+G1. Ask questions to clarify the requirements:
 	1. users - who will use the system, how often
 	2. scale (read and write) - how many read/write per request/second
 	3. perf - write/read delay, is it real time. how fast 
@@ -65,3 +70,13 @@ Load balancing may use batching to keep some data and send in one request, it ha
  xml, json, txt
  
  binary: protocol buffers, avro, thrift
+ 
+ 
+ AWS S3 might be good for cold storage - to store some archived data
+ 
+ 
+ Testing: perf testing, 
+ 
+ [[Performance testing]]
+ 
+ 
