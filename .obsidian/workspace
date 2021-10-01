@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a0e1193109ef3cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5b659dd4b20867c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "monkk/Programming/Code Interview/What should I know.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85a479094857b851",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5868e90bbe25207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3f269996456934",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e600a8b2e77e50ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0f245015bb963ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00d8aace5e4d495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7572722bb953e3f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "monkk/Programming/Code Interview/What should I know.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5b659dd4b20867c",
+  "lastOpenFiles": [
+    "monkk/Programming/Code Interview/What should I know.md",
+    "monkk/Programming/Code Interview/REACTO acronym.md",
+    "monkk/Programming/Code Interview/Questions I was asked/Teads.md",
+    "monkk/Programming/Code Interview/Code tasks/Duplicates of unsorted list.md",
+    "monkk/Programming/Code Interview/Code tasks/Maximum sum subarray.md",
+    "monkk/Programming/Code Interview/Code tasks/Find pairs of students.md",
+    "monkk/Programming/Code Interview/Code tasks/Untitled.md",
+    "monkk/Programming/Data Structures/Hash table.md",
+    "monkk/Programming/Algorithms/Quicksort.md",
+    "monkk/Programming/Data Structures/Linked List.md"
+  ]
+}
