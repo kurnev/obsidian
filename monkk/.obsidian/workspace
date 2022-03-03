@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Code Interview/REACTO acronym.md",
+            "file": "Programming/Data Structures/Binary tree.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Code Interview/REACTO acronym.md",
+                "file": "Programming/Data Structures/Binary tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "857490a55083bd8d",
   "lastOpenFiles": [
-    "Programming/Code Interview/REACTO acronym.md",
-    "Programming/Code Interview/What should I know.md",
-    "Programming/Code Interview/Questions on interview/Questions I was asked.md",
-    "Programming/Code Interview/Code interview.md",
-    "Programming/Code Interview/Must know questions for an interview.md",
-    "Programming/Code Interview/Red-black tree.md",
-    "Programming/Code Interview/NP Complete.md",
-    "Programming/Code Interview/inverted index.md",
-    "Programming/Code Interview/OSI.md",
-    "Programming/Code Interview/MapReduce.md"
+    "Programming/Data Structures/Binary tree.md",
+    "Programming/Data Structures/Binary search tree.md",
+    "Programming/Leetcode/tictactoe.md",
+    "Programming/Leetcode/Excel Sheet Column Number.md",
+    "Programming/Leetcode/MaxStack.md",
+    "Programming/Data Structures/Red-black tree.md",
+    "Programming/Data Structures/B-tree.md",
+    "Programming/Data Structures/Tree.md",
+    "Programming/Code Interview/Questions I was asked/Teads.md",
+    "Programming/Code Interview/Code tasks/Untitl.md"
   ]
 }
