@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Data Structures/Binary tree.md",
+            "file": "Programming/Code Interview/Code tasks/Maximum sum subarray.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Data Structures/Binary tree.md",
+                "file": "Programming/Code Interview/Code tasks/Maximum sum subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "857490a55083bd8d",
   "lastOpenFiles": [
-    "Programming/Data Structures/Binary tree.md",
-    "Programming/Data Structures/Binary search tree.md",
-    "Programming/Leetcode/tictactoe.md",
-    "Programming/Leetcode/Excel Sheet Column Number.md",
-    "Programming/Leetcode/MaxStack.md",
-    "Programming/Data Structures/Red-black tree.md",
-    "Programming/Data Structures/B-tree.md",
-    "Programming/Data Structures/Tree.md",
+    "Programming/Code Interview/Code tasks/Maximum sum subarray.md",
     "Programming/Code Interview/Questions I was asked/Teads.md",
-    "Programming/Code Interview/Code tasks/Untitl.md"
+    "Programming/Code Interview/What should I know.md",
+    "Programming/Code Interview/REACTO acronym.md",
+    "Programming/Code Interview/Code tasks/Find pairs of students.md",
+    "Programming/Code Interview/Code tasks/Duplicates of unsorted list.md",
+    "Programming/Algorithms/Quicksort.md",
+    "Programming/Concepts/Big O.md",
+    "Programming/Concepts/Bloom filter.md",
+    "Programming/Concepts/Context switch.md"
   ]
 }
