@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "monkk/Programming/Code Interview/What should I know.md",
+            "file": "monkk/Programming/Data Structures/Linked List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "monkk/Programming/Code Interview/What should I know.md",
+                "file": "monkk/Programming/Data Structures/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f5b659dd4b20867c",
   "lastOpenFiles": [
-    "monkk/Programming/Code Interview/What should I know.md",
-    "monkk/Programming/Code Interview/REACTO acronym.md",
-    "monkk/Programming/Code Interview/Questions I was asked/Teads.md",
-    "monkk/Programming/Code Interview/Code tasks/Duplicates of unsorted list.md",
-    "monkk/Programming/Code Interview/Code tasks/Maximum sum subarray.md",
-    "monkk/Programming/Code Interview/Code tasks/Find pairs of students.md",
-    "monkk/Programming/Code Interview/Code tasks/Untitled.md",
+    "monkk/Programming/Data Structures/Linked List.md",
     "monkk/Programming/Data Structures/Hash table.md",
-    "monkk/Programming/Algorithms/Quicksort.md",
-    "monkk/Programming/Data Structures/Linked List.md"
+    "monkk/Programming/Data Structures/graphs.md",
+    "monkk/Programming/Data Structures/B-tree.md",
+    "monkk/Programming/Data Structures/Binary search tree.md",
+    "monkk/Programming/Data Structures/Binary tree.md",
+    "monkk/Programming/Data Structures/Red-black tree.md",
+    "monkk/Programming/Concepts/Recursion.md",
+    "monkk/Programming/Concepts/OCR.md",
+    "monkk/Programming/Concepts/NP Complete.md"
   ]
 }

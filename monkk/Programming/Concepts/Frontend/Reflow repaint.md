@@ -1,0 +1,6 @@
+Reflow is the name of the web browser process for re-calculating the positions and geometries of elements in the document, for the purpose of re-rendering part or all of the document. Because reflow is a **user-blocking operation** in the browser, it is useful for developers to understand how to improve reflow time and also to understand the effects of various document properties (DOM depth, CSS rule efficiency, different types of style changes) on reflow time. 
+
+1.  Reduce unnecessary DOM depth. Changes at one level in the DOM tree can cause changes at every level of the tree - all the way up to the root, and all the way down into the children of the modified node. This leads to more time being spent performing reflow.
+2.  Minimize CSS rules, and remove unused CSS rules.
+3.  If you make complex rendering changes such as animations, do so out of the flow. Use position-absolute or position-fixed to accomplish this.
+4.  Avoid unnecessary complex CSS selectors - descendant selectors in particular - which require more CPU power to do selector matching.
